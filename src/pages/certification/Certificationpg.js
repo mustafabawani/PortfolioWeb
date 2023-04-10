@@ -43,7 +43,6 @@ function Certification(props) {
         </Fade>
       </div>
       <Certifications theme={props.theme} />
-<></>
       <Footer theme={props.theme} onToggle={props.onToggle} />
     </div>
   );
